@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WeekOneDailyFour</string>
+
+    <string name="loan_amount">Loan Amount</string>
+    <string name="ten_year">10 Yr</string>
+    <string name="fifteen_year">15 Yr</string>
+    <string name="thirty_year">30 Yr</string>
+    <string name="interest_rate">Interest Rate</string>
+    <string name="monthly_payment">Monthly Payment</string>
+</resources>
