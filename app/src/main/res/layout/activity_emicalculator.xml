@@ -35,7 +35,7 @@
         android:layout_weight="1">
 
         <TextView
-            android:id="@+id/tvInterestRateTextView"
+            android:id="@+id/tvCustomRateTextView"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/interest_rate"/>
@@ -131,8 +131,6 @@
             android:focusable="false"
             android:longClickable="false"
             android:cursorVisible="false"/>
-
-
 
     </TableRow>
 
