@@ -9,7 +9,7 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.ImageView;
 
-public class TakePhoto extends AppCompatActivity {
+public class TakePhotoActivity extends AppCompatActivity {
 
     public static final int CAMERA_REQUEST = 1888;
     private ImageView imageView;

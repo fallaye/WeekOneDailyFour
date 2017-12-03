@@ -6,7 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context="mobileappcompany.weekonedailyfour.TakePhoto">
+    tools:context="mobileappcompany.weekonedailyfour.TakePhotoActivity">
 
     <Button
         android:id="@+id/btnTakePhoto"
